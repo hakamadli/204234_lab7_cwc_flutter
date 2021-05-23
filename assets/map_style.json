@@ -1,0 +1,26 @@
+[
+    {
+      "featureType": "landscape.natural",
+      "stylers": [
+        {
+          "color": "#d0c7ff"
+        }
+      ]
+    },
+    {
+      "featureType": "road.arterial",
+      "stylers": [
+        {
+          "color": "#ff006f"
+        }
+      ]
+    },
+    {
+      "featureType": "water",
+      "stylers": [
+        {
+          "color": "#4e4360"
+        }
+      ]
+    }
+  ]
